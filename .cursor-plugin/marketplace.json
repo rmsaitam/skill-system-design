@@ -1,0 +1,16 @@
+{
+  "name": "system-design",
+  "owner": {
+    "name": "Reginaldo (rmsaitam)"
+  },
+  "metadata": {
+    "description": "System Design skill for AI coding agents."
+  },
+  "plugins": [
+    {
+      "name": "system-design",
+      "source": ".",
+      "description": "Guides principal-level system design, capacity planning, architecture trade-offs, and produces a validated SYSTEM-DESIGN.md."
+    }
+  ]
+}

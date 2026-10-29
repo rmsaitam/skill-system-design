@@ -1,0 +1,50 @@
+{
+  "name": "system-design",
+  "version": "0.1.0",
+  "description": "Guides principal-level system design, capacity planning, architecture trade-offs, and produces a validated SYSTEM-DESIGN.md.",
+  "author": {
+    "name": "Reginaldo (rmsaitam)",
+    "url": "https://github.com/rmsaitam/skill-system-design"
+  },
+  "homepage": "https://github.com/rmsaitam/skill-system-design",
+  "repository": "https://github.com/rmsaitam/skill-system-design",
+  "license": "MIT",
+  "keywords": [
+    "system-design",
+    "software-architecture",
+    "distributed-systems",
+    "cloud-native",
+    "microservices",
+    "capacity-planning",
+    "scalability",
+    "high-availability",
+    "slo",
+    "trade-offs",
+    "adr",
+    "security",
+    "observability"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "System Design",
+    "shortDescription": "Design, critique, and document scalable software architectures",
+    "longDescription": "Run a staged architecture engagement: clarify functional and non-functional requirements, estimate capacity, draw the high-level design, choose data stores, expose trade-offs and failure modes, and cover security, observability, and resilience. Produces a traceable SYSTEM-DESIGN.md with ADRs, risks, SLOs, and a validation gate.",
+    "developerName": "Reginaldo (rmsaitam)",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/rmsaitam/skill-system-design",
+    "defaultPrompt": [
+      "Design this system with me and produce SYSTEM-DESIGN.md",
+      "Critique my architecture for scalability, trade-offs, and failure modes",
+      "Validate my SYSTEM-DESIGN.md artifact"
+    ],
+    "brandColor": "#1D4ED8",
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/logo.svg",
+    "screenshots": []
+  }
+}

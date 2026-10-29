@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="System Design">
+  <rect width="512" height="512" rx="112" fill="#1D4ED8"/>
+  <rect x="104" y="96" width="128" height="88" rx="18" fill="#FFFFFF"/>
+  <rect x="280" y="96" width="128" height="88" rx="18" fill="#BFDBFE"/>
+  <rect x="192" y="328" width="128" height="88" rx="18" fill="#FFFFFF"/>
+  <path d="M168 184v72h176v-72" fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M256 256v72" fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="168" cy="256" r="14" fill="#1D4ED8"/>
+  <circle cx="344" cy="256" r="14" fill="#1D4ED8"/>
+  <circle cx="256" cy="256" r="14" fill="#1D4ED8"/>
+</svg>

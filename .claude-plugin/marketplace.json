@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "system-design",
+  "description": "System Design skill for AI coding agents.",
+  "owner": {
+    "name": "Reginaldo (rmsaitam)",
+    "url": "https://github.com/rmsaitam/skill-system-design"
+  },
+  "plugins": [
+    {
+      "name": "system-design",
+      "description": "Guides principal-level system design, capacity planning, architecture trade-offs, and produces a validated SYSTEM-DESIGN.md.",
+      "source": "./",
+      "category": "development"
+    }
+  ]
+}

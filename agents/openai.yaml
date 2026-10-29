@@ -1,0 +1,4 @@
+interface:
+  display_name: "System Design"
+  short_description: "Design, critique, and document scalable software architectures"
+  default_prompt: "Use $system-design to design this system with me and produce SYSTEM-DESIGN.md."

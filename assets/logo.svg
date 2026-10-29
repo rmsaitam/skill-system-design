@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" role="img" aria-label="System Design">
+  <rect width="800" height="240" rx="32" fill="#1D4ED8"/>
+  <rect x="64" y="52" width="72" height="50" rx="12" fill="#FFFFFF"/>
+  <rect x="168" y="52" width="72" height="50" rx="12" fill="#BFDBFE"/>
+  <rect x="116" y="146" width="72" height="50" rx="12" fill="#FFFFFF"/>
+  <path d="M100 102v28h104v-28" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M152 130v16" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="100" cy="130" r="8" fill="#1D4ED8"/>
+  <circle cx="204" cy="130" r="8" fill="#1D4ED8"/>
+  <circle cx="152" cy="130" r="8" fill="#1D4ED8"/>
+  <text x="276" y="122" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="50" font-weight="700">System Design</text>
+  <text x="278" y="162" fill="#DBEAFE" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="500">Architecture decisions, capacity, and trade-offs</text>
+</svg>

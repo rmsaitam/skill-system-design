@@ -1,0 +1,21 @@
+{
+  "name": "system-design",
+  "interface": {
+    "displayName": "System Design"
+  },
+  "plugins": [
+    {
+      "name": "system-design",
+      "description": "Guides principal-level system design, capacity planning, architecture trade-offs, and produces a validated SYSTEM-DESIGN.md.",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

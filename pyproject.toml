@@ -1,0 +1,27 @@
+[project]
+name = "system-design-plugin"
+version = "0.1.0"
+description = "System Design plugin for Codex, Claude Code, Antigravity, GitHub Copilot, and Cursor."
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Reginaldo (rmsaitam)" }]
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0",
+  "pytest-cov>=5.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+
+[tool.coverage.run]
+branch = true
+source = ["skills/system-design/scripts", "scripts"]
+
+[tool.coverage.report]
+fail_under = 80
+show_missing = true
+skip_empty = true

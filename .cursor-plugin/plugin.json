@@ -1,0 +1,30 @@
+{
+  "name": "system-design",
+  "version": "0.1.0",
+  "description": "Guides principal-level system design, capacity planning, architecture trade-offs, and produces a validated SYSTEM-DESIGN.md.",
+  "author": {
+    "name": "Reginaldo (rmsaitam)",
+    "url": "https://github.com/rmsaitam/skill-system-design"
+  },
+  "homepage": "https://github.com/rmsaitam/skill-system-design",
+  "repository": "https://github.com/rmsaitam/skill-system-design",
+  "license": "MIT",
+  "keywords": [
+    "system-design",
+    "software-architecture",
+    "distributed-systems",
+    "cloud-native",
+    "microservices",
+    "capacity-planning",
+    "scalability",
+    "high-availability",
+    "slo",
+    "trade-offs",
+    "adr",
+    "security",
+    "observability"
+  ],
+  "skills": "./skills/",
+  "commands": "./commands/",
+  "logo": "assets/logo.svg"
+}
